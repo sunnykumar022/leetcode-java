@@ -11,6 +11,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | [0661-image-smoother](https://github.com/sunnykumar022/leetcode-java/tree/master/0661-image-smoother) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/sunnykumar022/leetcode-java/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/sunnykumar022/leetcode-java/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1528-shuffle-string](https://github.com/sunnykumar022/leetcode-java/tree/master/1528-shuffle-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,5 +44,6 @@ My LeetCode solutions in Java with topic -wise organization.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sunnykumar022/leetcode-java/tree/master/0125-valid-palindrome) |
+| [1528-shuffle-string](https://github.com/sunnykumar022/leetcode-java/tree/master/1528-shuffle-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sunnykumar022/leetcode-java/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
