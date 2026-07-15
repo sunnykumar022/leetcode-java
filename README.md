@@ -19,6 +19,7 @@ My LeetCode solutions in Java with topic -wise organization.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sunnykumar022/leetcode-java/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/sunnykumar022/leetcode-java/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/sunnykumar022/leetcode-java/tree/master/0383-ransom-note) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sunnykumar022/leetcode-java/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Matrix
@@ -52,6 +53,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | ------- |
 | [0125-valid-palindrome](https://github.com/sunnykumar022/leetcode-java/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/sunnykumar022/leetcode-java/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/sunnykumar022/leetcode-java/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/sunnykumar022/leetcode-java/tree/master/0383-ransom-note) |
 | [1108-defanging-an-ip-address](https://github.com/sunnykumar022/leetcode-java/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/sunnykumar022/leetcode-java/tree/master/1528-shuffle-string) |
