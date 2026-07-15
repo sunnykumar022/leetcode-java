@@ -12,7 +12,7 @@ class Solution {
                 count++;
                 left--;
                 right++;
-            }
+            } 
             left=i;
             right=i+1;
             while(left>=0 && right<n && s.charAt(left)==s.charAt(right)){
