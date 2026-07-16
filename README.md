@@ -64,6 +64,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | [0890-find-and-replace-pattern](https://github.com/sunnykumar022/leetcode-java/tree/master/0890-find-and-replace-pattern) |
 | [1108-defanging-an-ip-address](https://github.com/sunnykumar022/leetcode-java/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/sunnykumar022/leetcode-java/tree/master/1528-shuffle-string) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/sunnykumar022/leetcode-java/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sunnykumar022/leetcode-java/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2325-decode-the-message](https://github.com/sunnykumar022/leetcode-java/tree/master/2325-decode-the-message) |
 ## Simulation
@@ -76,6 +77,7 @@ My LeetCode solutions in Java with topic -wise organization.
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/sunnykumar022/leetcode-java/tree/master/0383-ransom-note) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/sunnykumar022/leetcode-java/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Sorting
 |  |
 | ------- |
