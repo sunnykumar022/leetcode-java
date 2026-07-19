@@ -45,6 +45,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | ------- |
 | [0179-largest-number](https://github.com/sunnykumar022/leetcode-java/tree/master/0179-largest-number) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/sunnykumar022/leetcode-java/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sunnykumar022/leetcode-java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,6 +72,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | [0500-keyboard-row](https://github.com/sunnykumar022/leetcode-java/tree/master/0500-keyboard-row) |
 | [0647-palindromic-substrings](https://github.com/sunnykumar022/leetcode-java/tree/master/0647-palindromic-substrings) |
 | [0890-find-and-replace-pattern](https://github.com/sunnykumar022/leetcode-java/tree/master/0890-find-and-replace-pattern) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sunnykumar022/leetcode-java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/sunnykumar022/leetcode-java/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/sunnykumar022/leetcode-java/tree/master/1528-shuffle-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/sunnykumar022/leetcode-java/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -121,4 +123,12 @@ My LeetCode solutions in Java with topic -wise organization.
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/sunnykumar022/leetcode-java/tree/master/3312-sorted-gcd-pair-queries) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sunnykumar022/leetcode-java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sunnykumar022/leetcode-java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
