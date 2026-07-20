@@ -64,6 +64,7 @@ My LeetCode solutions in Java with topic -wise organization.
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/sunnykumar022/leetcode-java/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/sunnykumar022/leetcode-java/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/sunnykumar022/leetcode-java/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/sunnykumar022/leetcode-java/tree/master/0205-isomorphic-strings) |
