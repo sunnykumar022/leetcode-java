@@ -7,6 +7,7 @@ My LeetCode solutions in Java with topic -wise organization.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sunnykumar022/leetcode-java/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/sunnykumar022/leetcode-java/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/sunnykumar022/leetcode-java/tree/master/0179-largest-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sunnykumar022/leetcode-java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0500-keyboard-row](https://github.com/sunnykumar022/leetcode-java/tree/master/0500-keyboard-row) |
@@ -60,6 +61,7 @@ My LeetCode solutions in Java with topic -wise organization.
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sunnykumar022/leetcode-java/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sunnykumar022/leetcode-java/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/sunnykumar022/leetcode-java/tree/master/0647-palindromic-substrings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sunnykumar022/leetcode-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -98,6 +100,7 @@ My LeetCode solutions in Java with topic -wise organization.
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sunnykumar022/leetcode-java/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/sunnykumar022/leetcode-java/tree/master/0179-largest-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sunnykumar022/leetcode-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
