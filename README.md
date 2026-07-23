@@ -13,6 +13,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | [0500-keyboard-row](https://github.com/sunnykumar022/leetcode-java/tree/master/0500-keyboard-row) |
 | [0661-image-smoother](https://github.com/sunnykumar022/leetcode-java/tree/master/0661-image-smoother) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/sunnykumar022/leetcode-java/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0881-boats-to-save-people](https://github.com/sunnykumar022/leetcode-java/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/sunnykumar022/leetcode-java/tree/master/0890-find-and-replace-pattern) |
 | [1260-shift-2d-grid](https://github.com/sunnykumar022/leetcode-java/tree/master/1260-shift-2d-grid) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/sunnykumar022/leetcode-java/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -49,6 +50,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | ------- |
 | [0179-largest-number](https://github.com/sunnykumar022/leetcode-java/tree/master/0179-largest-number) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/sunnykumar022/leetcode-java/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0881-boats-to-save-people](https://github.com/sunnykumar022/leetcode-java/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sunnykumar022/leetcode-java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Binary Search
 |  |
@@ -65,6 +67,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | [0088-merge-sorted-array](https://github.com/sunnykumar022/leetcode-java/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sunnykumar022/leetcode-java/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/sunnykumar022/leetcode-java/tree/master/0647-palindromic-substrings) |
+| [0881-boats-to-save-people](https://github.com/sunnykumar022/leetcode-java/tree/master/0881-boats-to-save-people) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sunnykumar022/leetcode-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -104,6 +107,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sunnykumar022/leetcode-java/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/sunnykumar022/leetcode-java/tree/master/0179-largest-number) |
+| [0881-boats-to-save-people](https://github.com/sunnykumar022/leetcode-java/tree/master/0881-boats-to-save-people) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sunnykumar022/leetcode-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
