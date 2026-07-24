@@ -17,6 +17,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | [0890-find-and-replace-pattern](https://github.com/sunnykumar022/leetcode-java/tree/master/0890-find-and-replace-pattern) |
 | [1260-shift-2d-grid](https://github.com/sunnykumar022/leetcode-java/tree/master/1260-shift-2d-grid) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/sunnykumar022/leetcode-java/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1470-shuffle-the-array](https://github.com/sunnykumar022/leetcode-java/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/sunnykumar022/leetcode-java/tree/master/1528-shuffle-string) |
 | [1706-where-will-the-ball-fall](https://github.com/sunnykumar022/leetcode-java/tree/master/1706-where-will-the-ball-fall) |
 | [1929-concatenation-of-array](https://github.com/sunnykumar022/leetcode-java/tree/master/1929-concatenation-of-array) |
