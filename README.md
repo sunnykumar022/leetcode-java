@@ -109,6 +109,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | [0088-merge-sorted-array](https://github.com/sunnykumar022/leetcode-java/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/sunnykumar022/leetcode-java/tree/master/0179-largest-number) |
 | [0881-boats-to-save-people](https://github.com/sunnykumar022/leetcode-java/tree/master/0881-boats-to-save-people) |
+| [3536-maximum-product-of-two-digits](https://github.com/sunnykumar022/leetcode-java/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sunnykumar022/leetcode-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -120,6 +121,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | [0415-add-strings](https://github.com/sunnykumar022/leetcode-java/tree/master/0415-add-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sunnykumar022/leetcode-java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sunnykumar022/leetcode-java/tree/master/3312-sorted-gcd-pair-queries) |
+| [3536-maximum-product-of-two-digits](https://github.com/sunnykumar022/leetcode-java/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sunnykumar022/leetcode-java/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sunnykumar022/leetcode-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
