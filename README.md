@@ -18,6 +18,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | [0890-find-and-replace-pattern](https://github.com/sunnykumar022/leetcode-java/tree/master/0890-find-and-replace-pattern) |
 | [1260-shift-2d-grid](https://github.com/sunnykumar022/leetcode-java/tree/master/1260-shift-2d-grid) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/sunnykumar022/leetcode-java/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunnykumar022/leetcode-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/sunnykumar022/leetcode-java/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/sunnykumar022/leetcode-java/tree/master/1528-shuffle-string) |
 | [1706-where-will-the-ball-fall](https://github.com/sunnykumar022/leetcode-java/tree/master/1706-where-will-the-ball-fall) |
@@ -111,6 +112,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | [0179-largest-number](https://github.com/sunnykumar022/leetcode-java/tree/master/0179-largest-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sunnykumar022/leetcode-java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/sunnykumar022/leetcode-java/tree/master/0881-boats-to-save-people) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunnykumar022/leetcode-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/sunnykumar022/leetcode-java/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sunnykumar022/leetcode-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -150,4 +152,8 @@ My LeetCode solutions in Java with topic -wise organization.
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sunnykumar022/leetcode-java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunnykumar022/leetcode-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
