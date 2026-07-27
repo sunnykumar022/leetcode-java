@@ -7,6 +7,7 @@ My LeetCode solutions in Java with topic -wise organization.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sunnykumar022/leetcode-java/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/sunnykumar022/leetcode-java/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sunnykumar022/leetcode-java/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/sunnykumar022/leetcode-java/tree/master/0179-largest-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sunnykumar022/leetcode-java/tree/master/0240-search-a-2d-matrix-ii) |
@@ -122,6 +123,7 @@ My LeetCode solutions in Java with topic -wise organization.
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/sunnykumar022/leetcode-java/tree/master/0066-plus-one) |
 | [0415-add-strings](https://github.com/sunnykumar022/leetcode-java/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sunnykumar022/leetcode-java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sunnykumar022/leetcode-java/tree/master/1979-find-greatest-common-divisor-of-array) |
