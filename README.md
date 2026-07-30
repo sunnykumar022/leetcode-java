@@ -23,6 +23,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | [1470-shuffle-the-array](https://github.com/sunnykumar022/leetcode-java/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/sunnykumar022/leetcode-java/tree/master/1528-shuffle-string) |
 | [1706-where-will-the-ball-fall](https://github.com/sunnykumar022/leetcode-java/tree/master/1706-where-will-the-ball-fall) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/sunnykumar022/leetcode-java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/sunnykumar022/leetcode-java/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sunnykumar022/leetcode-java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sunnykumar022/leetcode-java/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -128,6 +129,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | [0066-plus-one](https://github.com/sunnykumar022/leetcode-java/tree/master/0066-plus-one) |
 | [0415-add-strings](https://github.com/sunnykumar022/leetcode-java/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sunnykumar022/leetcode-java/tree/master/0628-maximum-product-of-three-numbers) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/sunnykumar022/leetcode-java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sunnykumar022/leetcode-java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sunnykumar022/leetcode-java/tree/master/3312-sorted-gcd-pair-queries) |
 | [3536-maximum-product-of-two-digits](https://github.com/sunnykumar022/leetcode-java/tree/master/3536-maximum-product-of-two-digits) |
