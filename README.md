@@ -138,6 +138,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | [0415-add-strings](https://github.com/sunnykumar022/leetcode-java/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/sunnykumar022/leetcode-java/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sunnykumar022/leetcode-java/tree/master/0628-maximum-product-of-three-numbers) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/sunnykumar022/leetcode-java/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sunnykumar022/leetcode-java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sunnykumar022/leetcode-java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sunnykumar022/leetcode-java/tree/master/3312-sorted-gcd-pair-queries) |
