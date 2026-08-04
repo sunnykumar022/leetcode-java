@@ -73,6 +73,7 @@ My LeetCode solutions in Java with topic -wise organization.
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sunnykumar022/leetcode-java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/sunnykumar022/leetcode-java/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sunnykumar022/leetcode-java/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sunnykumar022/leetcode-java/tree/master/0344-reverse-string) |
@@ -190,4 +191,8 @@ My LeetCode solutions in Java with topic -wise organization.
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sunnykumar022/leetcode-java/tree/master/1232-check-if-it-is-a-straight-line) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sunnykumar022/leetcode-java/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
