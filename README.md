@@ -18,6 +18,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | [0807-max-increase-to-keep-city-skyline](https://github.com/sunnykumar022/leetcode-java/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0881-boats-to-save-people](https://github.com/sunnykumar022/leetcode-java/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/sunnykumar022/leetcode-java/tree/master/0890-find-and-replace-pattern) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/sunnykumar022/leetcode-java/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/sunnykumar022/leetcode-java/tree/master/1260-shift-2d-grid) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/sunnykumar022/leetcode-java/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunnykumar022/leetcode-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -138,6 +139,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | [0415-add-strings](https://github.com/sunnykumar022/leetcode-java/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/sunnykumar022/leetcode-java/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sunnykumar022/leetcode-java/tree/master/0628-maximum-product-of-three-numbers) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/sunnykumar022/leetcode-java/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/sunnykumar022/leetcode-java/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sunnykumar022/leetcode-java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sunnykumar022/leetcode-java/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -184,4 +186,8 @@ My LeetCode solutions in Java with topic -wise organization.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/sunnykumar022/leetcode-java/tree/master/0509-fibonacci-number) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/sunnykumar022/leetcode-java/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
