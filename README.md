@@ -107,6 +107,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | ------- |
 | [0415-add-strings](https://github.com/sunnykumar022/leetcode-java/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/sunnykumar022/leetcode-java/tree/master/1260-shift-2d-grid) |
+| [1603-design-parking-system](https://github.com/sunnykumar022/leetcode-java/tree/master/1603-design-parking-system) |
 | [1706-where-will-the-ball-fall](https://github.com/sunnykumar022/leetcode-java/tree/master/1706-where-will-the-ball-fall) |
 | [1929-concatenation-of-array](https://github.com/sunnykumar022/leetcode-java/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sunnykumar022/leetcode-java/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -115,6 +116,7 @@ My LeetCode solutions in Java with topic -wise organization.
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/sunnykumar022/leetcode-java/tree/master/0383-ransom-note) |
+| [1603-design-parking-system](https://github.com/sunnykumar022/leetcode-java/tree/master/1603-design-parking-system) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/sunnykumar022/leetcode-java/tree/master/1704-determine-if-string-halves-are-alike) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sunnykumar022/leetcode-java/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sorting
@@ -195,4 +197,8 @@ My LeetCode solutions in Java with topic -wise organization.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sunnykumar022/leetcode-java/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/sunnykumar022/leetcode-java/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
