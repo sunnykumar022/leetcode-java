@@ -7,6 +7,7 @@ My LeetCode solutions in Java with topic -wise organization.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sunnykumar022/leetcode-java/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/sunnykumar022/leetcode-java/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sunnykumar022/leetcode-java/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sunnykumar022/leetcode-java/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/sunnykumar022/leetcode-java/tree/master/0179-largest-number) |
@@ -46,6 +47,7 @@ My LeetCode solutions in Java with topic -wise organization.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sunnykumar022/leetcode-java/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sunnykumar022/leetcode-java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0661-image-smoother](https://github.com/sunnykumar022/leetcode-java/tree/master/0661-image-smoother) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/sunnykumar022/leetcode-java/tree/master/0807-max-increase-to-keep-city-skyline) |
@@ -138,6 +140,7 @@ My LeetCode solutions in Java with topic -wise organization.
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sunnykumar022/leetcode-java/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sunnykumar022/leetcode-java/tree/master/0066-plus-one) |
 | [0415-add-strings](https://github.com/sunnykumar022/leetcode-java/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/sunnykumar022/leetcode-java/tree/master/0509-fibonacci-number) |
