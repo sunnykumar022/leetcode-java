@@ -7,6 +7,7 @@ My LeetCode solutions in Java with topic -wise organization.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sunnykumar022/leetcode-java/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/sunnykumar022/leetcode-java/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/sunnykumar022/leetcode-java/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sunnykumar022/leetcode-java/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sunnykumar022/leetcode-java/tree/master/0088-merge-sorted-array) |
@@ -75,6 +76,7 @@ My LeetCode solutions in Java with topic -wise organization.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sunnykumar022/leetcode-java/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sunnykumar022/leetcode-java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/sunnykumar022/leetcode-java/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sunnykumar022/leetcode-java/tree/master/0125-valid-palindrome) |
@@ -124,6 +126,7 @@ My LeetCode solutions in Java with topic -wise organization.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sunnykumar022/leetcode-java/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/sunnykumar022/leetcode-java/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/sunnykumar022/leetcode-java/tree/master/0179-largest-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sunnykumar022/leetcode-java/tree/master/0628-maximum-product-of-three-numbers) |
