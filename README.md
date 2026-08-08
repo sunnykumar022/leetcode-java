@@ -150,6 +150,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | [1822-sign-of-the-product-of-an-array](https://github.com/sunnykumar022/leetcode-java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sunnykumar022/leetcode-java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sunnykumar022/leetcode-java/tree/master/3312-sorted-gcd-pair-queries) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sunnykumar022/leetcode-java/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/sunnykumar022/leetcode-java/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sunnykumar022/leetcode-java/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sunnykumar022/leetcode-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -204,4 +205,8 @@ My LeetCode solutions in Java with topic -wise organization.
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/sunnykumar022/leetcode-java/tree/master/1603-design-parking-system) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sunnykumar022/leetcode-java/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
