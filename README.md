@@ -96,6 +96,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | [0415-add-strings](https://github.com/sunnykumar022/leetcode-java/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/sunnykumar022/leetcode-java/tree/master/0500-keyboard-row) |
 | [0647-palindromic-substrings](https://github.com/sunnykumar022/leetcode-java/tree/master/0647-palindromic-substrings) |
+| [0796-rotate-string](https://github.com/sunnykumar022/leetcode-java/tree/master/0796-rotate-string) |
 | [0824-goat-latin](https://github.com/sunnykumar022/leetcode-java/tree/master/0824-goat-latin) |
 | [0890-find-and-replace-pattern](https://github.com/sunnykumar022/leetcode-java/tree/master/0890-find-and-replace-pattern) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sunnykumar022/leetcode-java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -212,4 +213,8 @@ My LeetCode solutions in Java with topic -wise organization.
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sunnykumar022/leetcode-java/tree/master/3345-smallest-divisible-digit-product-i) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/sunnykumar022/leetcode-java/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
