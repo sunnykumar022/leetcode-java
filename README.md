@@ -89,6 +89,7 @@ My LeetCode solutions in Java with topic -wise organization.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sunnykumar022/leetcode-java/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/sunnykumar022/leetcode-java/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/sunnykumar022/leetcode-java/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/sunnykumar022/leetcode-java/tree/master/0179-largest-number) |
@@ -179,6 +180,7 @@ My LeetCode solutions in Java with topic -wise organization.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sunnykumar022/leetcode-java/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sunnykumar022/leetcode-java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -224,4 +226,8 @@ My LeetCode solutions in Java with topic -wise organization.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/sunnykumar022/leetcode-java/tree/master/0202-happy-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sunnykumar022/leetcode-java/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
