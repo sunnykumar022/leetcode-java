@@ -37,6 +37,7 @@ My LeetCode solutions in Java with topic -wise organization.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sunnykumar022/leetcode-java/tree/master/0001-two-sum) |
+| [0187-repeated-dna-sequences](https://github.com/sunnykumar022/leetcode-java/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/sunnykumar022/leetcode-java/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/sunnykumar022/leetcode-java/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/sunnykumar022/leetcode-java/tree/master/0383-ransom-note) |
@@ -93,6 +94,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | [0038-count-and-say](https://github.com/sunnykumar022/leetcode-java/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/sunnykumar022/leetcode-java/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/sunnykumar022/leetcode-java/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/sunnykumar022/leetcode-java/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/sunnykumar022/leetcode-java/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/sunnykumar022/leetcode-java/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/sunnykumar022/leetcode-java/tree/master/0383-ransom-note) |
@@ -230,4 +232,28 @@ My LeetCode solutions in Java with topic -wise organization.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sunnykumar022/leetcode-java/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/sunnykumar022/leetcode-java/tree/master/0187-repeated-dna-sequences) |
+## Sliding Window
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/sunnykumar022/leetcode-java/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/sunnykumar022/leetcode-java/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/sunnykumar022/leetcode-java/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/sunnykumar022/leetcode-java/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/sunnykumar022/leetcode-java/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
