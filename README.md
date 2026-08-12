@@ -38,6 +38,7 @@ My LeetCode solutions in Java with topic -wise organization.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sunnykumar022/leetcode-java/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sunnykumar022/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/sunnykumar022/leetcode-java/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/sunnykumar022/leetcode-java/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/sunnykumar022/leetcode-java/tree/master/0205-isomorphic-strings) |
@@ -94,6 +95,7 @@ My LeetCode solutions in Java with topic -wise organization.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sunnykumar022/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sunnykumar022/leetcode-java/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sunnykumar022/leetcode-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/sunnykumar022/leetcode-java/tree/master/0038-count-and-say) |
@@ -247,6 +249,7 @@ My LeetCode solutions in Java with topic -wise organization.
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sunnykumar022/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/sunnykumar022/leetcode-java/tree/master/0187-repeated-dna-sequences) |
 ## Rolling Hash
 |  |
