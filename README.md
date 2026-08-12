@@ -81,6 +81,7 @@ My LeetCode solutions in Java with topic -wise organization.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sunnykumar022/leetcode-java/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/sunnykumar022/leetcode-java/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sunnykumar022/leetcode-java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sunnykumar022/leetcode-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -96,6 +97,7 @@ My LeetCode solutions in Java with topic -wise organization.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sunnykumar022/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/sunnykumar022/leetcode-java/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/sunnykumar022/leetcode-java/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sunnykumar022/leetcode-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/sunnykumar022/leetcode-java/tree/master/0038-count-and-say) |
@@ -153,6 +155,7 @@ My LeetCode solutions in Java with topic -wise organization.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sunnykumar022/leetcode-java/tree/master/0005-longest-palindromic-substring) |
 | [0509-fibonacci-number](https://github.com/sunnykumar022/leetcode-java/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/sunnykumar022/leetcode-java/tree/master/0647-palindromic-substrings) |
 ## Math
@@ -273,4 +276,8 @@ My LeetCode solutions in Java with topic -wise organization.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sunnykumar022/leetcode-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sunnykumar022/leetcode-java/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
