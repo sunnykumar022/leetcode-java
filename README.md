@@ -29,6 +29,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | [1528-shuffle-string](https://github.com/sunnykumar022/leetcode-java/tree/master/1528-shuffle-string) |
 | [1706-where-will-the-ball-fall](https://github.com/sunnykumar022/leetcode-java/tree/master/1706-where-will-the-ball-fall) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sunnykumar022/leetcode-java/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sunnykumar022/leetcode-java/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/sunnykumar022/leetcode-java/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sunnykumar022/leetcode-java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sunnykumar022/leetcode-java/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -61,6 +62,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | [1260-shift-2d-grid](https://github.com/sunnykumar022/leetcode-java/tree/master/1260-shift-2d-grid) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/sunnykumar022/leetcode-java/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1706-where-will-the-ball-fall](https://github.com/sunnykumar022/leetcode-java/tree/master/1706-where-will-the-ball-fall) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sunnykumar022/leetcode-java/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sunnykumar022/leetcode-java/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Greedy
 |  |
