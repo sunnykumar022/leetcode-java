@@ -51,6 +51,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | [1935-maximum-number-of-words-you-can-type](https://github.com/sunnykumar022/leetcode-java/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2325-decode-the-message](https://github.com/sunnykumar022/leetcode-java/tree/master/2325-decode-the-message) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sunnykumar022/leetcode-java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/sunnykumar022/leetcode-java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sunnykumar022/leetcode-java/tree/master/3312-sorted-gcd-pair-queries) |
 ## Matrix
 |  |
@@ -125,6 +126,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sunnykumar022/leetcode-java/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/sunnykumar022/leetcode-java/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2325-decode-the-message](https://github.com/sunnykumar022/leetcode-java/tree/master/2325-decode-the-message) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/sunnykumar022/leetcode-java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sunnykumar022/leetcode-java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Simulation
 |  |
@@ -262,6 +264,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sunnykumar022/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/sunnykumar022/leetcode-java/tree/master/0187-repeated-dna-sequences) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/sunnykumar022/leetcode-java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Rolling Hash
 |  |
 | ------- |
