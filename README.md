@@ -35,6 +35,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | [2022-convert-1d-array-into-2d-array](https://github.com/sunnykumar022/leetcode-java/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sunnykumar022/leetcode-java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sunnykumar022/leetcode-java/tree/master/3312-sorted-gcd-pair-queries) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sunnykumar022/leetcode-java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sunnykumar022/leetcode-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -259,6 +260,7 @@ My LeetCode solutions in Java with topic -wise organization.
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/sunnykumar022/leetcode-java/tree/master/0187-repeated-dna-sequences) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sunnykumar022/leetcode-java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sliding Window
 |  |
 | ------- |
