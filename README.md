@@ -123,6 +123,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sunnykumar022/leetcode-java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/sunnykumar022/leetcode-java/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/sunnykumar022/leetcode-java/tree/master/1528-shuffle-string) |
+| [1678-goal-parser-interpretation](https://github.com/sunnykumar022/leetcode-java/tree/master/1678-goal-parser-interpretation) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/sunnykumar022/leetcode-java/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sunnykumar022/leetcode-java/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/sunnykumar022/leetcode-java/tree/master/1935-maximum-number-of-words-you-can-type) |
