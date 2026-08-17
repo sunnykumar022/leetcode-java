@@ -27,6 +27,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunnykumar022/leetcode-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/sunnykumar022/leetcode-java/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/sunnykumar022/leetcode-java/tree/master/1528-shuffle-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sunnykumar022/leetcode-java/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1706-where-will-the-ball-fall](https://github.com/sunnykumar022/leetcode-java/tree/master/1706-where-will-the-ball-fall) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sunnykumar022/leetcode-java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sunnykumar022/leetcode-java/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -123,6 +124,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sunnykumar022/leetcode-java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/sunnykumar022/leetcode-java/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/sunnykumar022/leetcode-java/tree/master/1528-shuffle-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sunnykumar022/leetcode-java/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/sunnykumar022/leetcode-java/tree/master/1678-goal-parser-interpretation) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/sunnykumar022/leetcode-java/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sunnykumar022/leetcode-java/tree/master/1832-check-if-the-sentence-is-pangram) |
