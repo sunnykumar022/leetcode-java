@@ -74,6 +74,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | [0807-max-increase-to-keep-city-skyline](https://github.com/sunnykumar022/leetcode-java/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0881-boats-to-save-people](https://github.com/sunnykumar022/leetcode-java/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sunnykumar022/leetcode-java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1903-largest-odd-number-in-string](https://github.com/sunnykumar022/leetcode-java/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,6 +129,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | [1678-goal-parser-interpretation](https://github.com/sunnykumar022/leetcode-java/tree/master/1678-goal-parser-interpretation) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/sunnykumar022/leetcode-java/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sunnykumar022/leetcode-java/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1903-largest-odd-number-in-string](https://github.com/sunnykumar022/leetcode-java/tree/master/1903-largest-odd-number-in-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/sunnykumar022/leetcode-java/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2325-decode-the-message](https://github.com/sunnykumar022/leetcode-java/tree/master/2325-decode-the-message) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sunnykumar022/leetcode-java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -182,6 +184,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | [1232-check-if-it-is-a-straight-line](https://github.com/sunnykumar022/leetcode-java/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/sunnykumar022/leetcode-java/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sunnykumar022/leetcode-java/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1903-largest-odd-number-in-string](https://github.com/sunnykumar022/leetcode-java/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sunnykumar022/leetcode-java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sunnykumar022/leetcode-java/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sunnykumar022/leetcode-java/tree/master/3345-smallest-divisible-digit-product-i) |
