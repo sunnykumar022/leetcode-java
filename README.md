@@ -120,6 +120,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | [0383-ransom-note](https://github.com/sunnykumar022/leetcode-java/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/sunnykumar022/leetcode-java/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/sunnykumar022/leetcode-java/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/sunnykumar022/leetcode-java/tree/master/0520-detect-capital) |
 | [0647-palindromic-substrings](https://github.com/sunnykumar022/leetcode-java/tree/master/0647-palindromic-substrings) |
 | [0796-rotate-string](https://github.com/sunnykumar022/leetcode-java/tree/master/0796-rotate-string) |
 | [0824-goat-latin](https://github.com/sunnykumar022/leetcode-java/tree/master/0824-goat-latin) |
