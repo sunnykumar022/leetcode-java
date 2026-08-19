@@ -44,6 +44,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | ------- |
 | [0001-two-sum](https://github.com/sunnykumar022/leetcode-java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sunnykumar022/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/sunnykumar022/leetcode-java/tree/master/0013-roman-to-integer) |
 | [0187-repeated-dna-sequences](https://github.com/sunnykumar022/leetcode-java/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/sunnykumar022/leetcode-java/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/sunnykumar022/leetcode-java/tree/master/0205-isomorphic-strings) |
@@ -108,6 +109,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sunnykumar022/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/sunnykumar022/leetcode-java/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/sunnykumar022/leetcode-java/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/sunnykumar022/leetcode-java/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sunnykumar022/leetcode-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/sunnykumar022/leetcode-java/tree/master/0038-count-and-say) |
@@ -178,6 +180,7 @@ My LeetCode solutions in Java with topic -wise organization.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sunnykumar022/leetcode-java/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/sunnykumar022/leetcode-java/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sunnykumar022/leetcode-java/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sunnykumar022/leetcode-java/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/sunnykumar022/leetcode-java/tree/master/0202-happy-number) |
