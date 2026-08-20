@@ -78,6 +78,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | [0881-boats-to-save-people](https://github.com/sunnykumar022/leetcode-java/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sunnykumar022/leetcode-java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/sunnykumar022/leetcode-java/tree/master/1903-largest-odd-number-in-string) |
+| [2864-maximum-odd-binary-number](https://github.com/sunnykumar022/leetcode-java/tree/master/2864-maximum-odd-binary-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -137,6 +138,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | [1903-largest-odd-number-in-string](https://github.com/sunnykumar022/leetcode-java/tree/master/1903-largest-odd-number-in-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/sunnykumar022/leetcode-java/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2325-decode-the-message](https://github.com/sunnykumar022/leetcode-java/tree/master/2325-decode-the-message) |
+| [2864-maximum-odd-binary-number](https://github.com/sunnykumar022/leetcode-java/tree/master/2864-maximum-odd-binary-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sunnykumar022/leetcode-java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sunnykumar022/leetcode-java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Simulation
@@ -192,6 +194,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | [1822-sign-of-the-product-of-an-array](https://github.com/sunnykumar022/leetcode-java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/sunnykumar022/leetcode-java/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sunnykumar022/leetcode-java/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2864-maximum-odd-binary-number](https://github.com/sunnykumar022/leetcode-java/tree/master/2864-maximum-odd-binary-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sunnykumar022/leetcode-java/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sunnykumar022/leetcode-java/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/sunnykumar022/leetcode-java/tree/master/3536-maximum-product-of-two-digits) |
