@@ -193,6 +193,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | [0509-fibonacci-number](https://github.com/sunnykumar022/leetcode-java/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sunnykumar022/leetcode-java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sunnykumar022/leetcode-java/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sunnykumar022/leetcode-java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/sunnykumar022/leetcode-java/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sunnykumar022/leetcode-java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/sunnykumar022/leetcode-java/tree/master/1903-largest-odd-number-in-string) |
@@ -278,6 +279,7 @@ My LeetCode solutions in Java with topic -wise organization.
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/sunnykumar022/leetcode-java/tree/master/0187-repeated-dna-sequences) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sunnykumar022/leetcode-java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sunnykumar022/leetcode-java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sliding Window
 |  |
