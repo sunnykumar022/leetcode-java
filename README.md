@@ -23,6 +23,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | [0661-image-smoother](https://github.com/sunnykumar022/leetcode-java/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/sunnykumar022/leetcode-java/tree/master/0704-binary-search) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/sunnykumar022/leetcode-java/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sunnykumar022/leetcode-java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/sunnykumar022/leetcode-java/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/sunnykumar022/leetcode-java/tree/master/0890-find-and-replace-pattern) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sunnykumar022/leetcode-java/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -94,6 +95,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | [0074-search-a-2d-matrix](https://github.com/sunnykumar022/leetcode-java/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sunnykumar022/leetcode-java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/sunnykumar022/leetcode-java/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sunnykumar022/leetcode-java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sunnykumar022/leetcode-java/tree/master/3312-sorted-gcd-pair-queries) |
 ## Divide and Conquer
 |  |
@@ -323,4 +325,8 @@ My LeetCode solutions in Java with topic -wise organization.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sunnykumar022/leetcode-java/tree/master/0005-longest-palindromic-substring) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sunnykumar022/leetcode-java/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
