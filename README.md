@@ -9,6 +9,7 @@ My LeetCode solutions in Java with topic -wise organization.
 | [0001-two-sum](https://github.com/sunnykumar022/leetcode-java/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/sunnykumar022/leetcode-java/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sunnykumar022/leetcode-java/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sunnykumar022/leetcode-java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sunnykumar022/leetcode-java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sunnykumar022/leetcode-java/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/sunnykumar022/leetcode-java/tree/master/0048-rotate-image) |
@@ -85,6 +86,7 @@ My LeetCode solutions in Java with topic -wise organization.
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sunnykumar022/leetcode-java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sunnykumar022/leetcode-java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sunnykumar022/leetcode-java/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sunnykumar022/leetcode-java/tree/master/0240-search-a-2d-matrix-ii) |
